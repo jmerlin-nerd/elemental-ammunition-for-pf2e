@@ -1,0 +1,28 @@
+{
+  "id": "elemental-ammunition-for-pf2e",
+  "title": "Elemental Ammunition for Pf2e",
+  "description": "This module is a compendium of 15 elemental ammunitions: Acid, Cold, Electricity, Fire and Poison, each in Lesser Moderate and Greater versions. These have been set up to make life easier for GMs of Gunslingers.",
+  "authors": [
+    {
+    "name": "JMer"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "elemental-ammo",
+      "label": "Elemental Ammunition for Pf2e",
+      "path": "packs/elemental-ammo",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
